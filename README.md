@@ -54,6 +54,16 @@ Lot3 is diffrent from the previous lots. The sampe mean from lot3 is 1496.14 and
 ## Study Design: MechaCar vs Competition
 
  - What metric or metrics are you going to test?
+	- Safety Rating: Independent Variable
+	- Average Annual Maintenance Cost: Independent Variable
+	- MPG: Independent Variable
+	- Breaking distance: Independent Variable
+	- Horse Power: Independent Variable
+	- Stress Tests of various components: Independent Variable
  - What is the null hypothesis or alternative hypothesis?
+	- Null Hypothesis (Ho): MechaCar performance is better than that of vehicles from other manufacturers.
+	- Alternative Hypothesis (Ha): MechaCar performance is NOT better than that of vehicles from other manufacturers.
  - What statistical test would you use to test the hypothesis? And why?
+Using a multiple linear regression statistical summary would show how the variables impact the performance for MechaCar vs their competitors.
  - What data is needed to run the statistical test?
+A sufficently large random sample of MechaVars and their competitors cars would be needed to collect the aforementioned metrics and collect comparable data from within those samples.
