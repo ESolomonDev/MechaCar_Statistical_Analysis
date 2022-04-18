@@ -31,13 +31,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
-t-test results from all lots:
+t-test results from all lots:<br/>
 ![ t_test1](img/t_test1.PNG)
-t-test results from lot1:
+t-test results from lot1:<br/>
 ![ lot1_t_test](img/lot1_t_test.PNG)
-t-test results from lot2:
+t-test results from lot2:<br/>
 ![ lot2_t_test](img/lot2_t_test.PNG)
-t-test results from lot3:
+t-test results from lot3:<br/>
 ![ lot3_t_test](img/lot3_t_test.PNG)
 
 
