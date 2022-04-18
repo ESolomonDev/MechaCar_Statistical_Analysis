@@ -33,13 +33,23 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 t-test results from all lots:<br/>
 ![ t_test1](img/t_test1.PNG)<br/>
+
+From the previous output we can see the true mean of the sample is 1498.78 wich can be verified with the summary statistics in the previous section. With a p=Value of 0.06028 (higher than the common significance level of 0.05) ther is not enough evidence to support rejecting the null hypothesis. In other words the mean of all three of the lots is statistically similar to the population mean of 1500.
+
 t-test results from lot1:<br/>
 ![ lot1_t_test](img/lot1_t_test.PNG)<br/>
+
+Lot1 has a true sample mean of 1500 as with the summary statistics and a p-Value of 1. Therefore we can not reject the null hypothesis that there is no statistical difference between the assumed population mean of 1500 and the observed sample mean.
+
 t-test results from lot2:<br/>
 ![ lot2_t_test](img/lot2_t_test.PNG)<br/>
+
+Lot2 has an almost identical sample mean of 1500.2 and a p-Value of 0.61. The null hypthesis can not be rejected and the sample mean and population mean are statistically similar.
+
 t-test results from lot3:<br/>
 ![ lot3_t_test](img/lot3_t_test.PNG)<br/>
 
+Lot3 is diffrent from the previous lots. The sampe mean from lot3 is 1496.14 and the p-Value is 0.04 (lower than the common significance of 0.05). THis indicates a rejection of the null hypothesis that this sample mean and the presumed population mean are not statistically different.
 
 ## Study Design: MechaCar vs Competition
 
